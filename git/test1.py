@@ -1,5 +1,5 @@
 print("self-introduction")
 
 print("Hello!!! everyone")
-print("my name is yusungho")
+print("My name is yusungho")
 print("i'm study coding in vscode")
